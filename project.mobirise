@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-14_1359",
+    "name": "Imprenta Abanico",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -42,7 +42,15 @@
     "imageResize": true,
     "uniqCompNum": 9,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "http://imprentaabanico.cl",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
